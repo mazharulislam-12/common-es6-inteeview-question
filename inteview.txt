@@ -45,4 +45,6 @@ Module -33
 8. What are Data Type supported JSON?
 9. What are the role JSON.stringify
 10. Show how to parse a JSON?
+11. get vs post request?
+
 
